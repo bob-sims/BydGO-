@@ -6,8 +6,7 @@ var currentWin = Ti.UI.currentWindow;
 
 // set the data from the database to the array
 function setData() {	
-//	var db = Ti.Database.open('bydgoszcz');
-//	db.remove();
+
 	var olddb = Ti.Database.install('../bydgoszcz.sqlite','bydgoszcz');
 	olddb.remove();
 	var db = Ti.Database.install('../bydgoszcz.sqlite','bydgoszcz');

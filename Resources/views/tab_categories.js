@@ -7,8 +7,6 @@ var currentWin = Ti.UI.currentWindow;
 // set the data from the database to the array
 function setData() {	
 
-	var olddb = Ti.Database.install('../bydgoszcz.sqlite','bydgoszcz');
-	olddb.remove();
 	var db = Ti.Database.install('../bydgoszcz.sqlite','bydgoszcz');
 
 	var rows = db.execute('SELECT * FROM Categories');
