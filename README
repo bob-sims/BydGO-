@@ -1,7 +1,7 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Mobile Appcelerator mapping app to find points of interest by category in Bydgsozcz, Poland.  Currently, this app is optimized for Android, however the Appcelerator platform allows for relatively easy cross-device development.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+This app design borrows liberally from Dan Stever's tutorial
+http://mobile.tutsplus.com/tutorials/appcelerator/titanium-mobile-database-driven-tables-with-sqlite/
 
 
 
