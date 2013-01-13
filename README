@@ -1,3 +1,5 @@
+Out of maintenance.  Needs updating with latest Titanium, Android, and iOS SDKs, along with latest Alloy framework practices.
+
 Mobile Appcelerator mapping app to find points of interest by category in Bydgsozcz, Poland.  Currently, this app is optimized for Android, however the Appcelerator platform allows for relatively easy cross-device development.
 
 This app design borrows liberally from Dan Stever's tutorial
